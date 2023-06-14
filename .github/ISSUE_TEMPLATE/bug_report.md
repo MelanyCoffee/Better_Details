@@ -38,7 +38,7 @@ If applicable, add screenshots to help explain your problem.
 **Describe el bug**
 Una descripción clara y concisa de lo que falló.
 
-**Como se producio**
+**Cómo se produce**
 Pasos para reproducir el falló:
 ```
 Ejemplo
