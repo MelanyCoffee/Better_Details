@@ -1,0 +1,257 @@
+{
+  "language.name": "English",
+  "language.region": "US",
+  "language.code": "en_us",
+
+// Some Options
+  "options.sensitivity.min":		"§8*yawn*§r",
+  "options.sensitivity.max":		"§5HYPERSPEED!!!§r",
+  "options.off":"§r\u4E11",
+  "options.on":"§r\u4E10",
+  "options.off.composed":"%s: §r\u4E11",
+  "options.on.composed":"%s: §r\u4E10",
+  "options.graphics.fast":"§eFast§r",
+  "options.graphics.fancy":"§aFancy§r",
+  "options.ao.off":"§r\u4E11",
+  "options.ao.min":"§eMinimum§r",
+  "options.ao.max":"§aMaximum§r",
+  "options.telemetry": "\u4E09 Telemetry Data...",
+  "credits_and_attribution.screen.title": "\u4E09 Credits and Attribution",
+  "options.credits_and_attribution": "\u4E09 Credits & Attribution...",
+  "options.telemetry.state.minimal": "§aMinimal§r",
+  "options.telemetry.state.all": "§4All§r",
+
+// World Selection
+  "selectWorld.gameRules":	"§f\u4E20 §rGame Rules §f\u4E20",
+  "editGamerule.title":		"§f\u4E21 §rEdit Game Rules §f\u4E21",  
+  "selectWorld.cheats":		"§5Cheats§r",
+  "selectWorld.version":	"§8Version:§r",
+  
+// Difficulty
+  "options.difficulty":				"Difficulty",
+  "options.difficulty.easy":		"§aEasy§r §f\u4E29",
+  "options.difficulty.normal":		"§eNormal§r §f\u4E2A",
+  "options.difficulty.hard":		"§cHard§r §f\u4E2B",
+  "options.difficulty.peaceful":	"§bPeaceful§r §f\u4E2C",  
+  "options.difficulty.hardcore":	"§4Hardcore§r",
+
+// Gamemode
+  "gameMode.survival":	"§2Survival Mode§r",
+  "gameMode.creative":	"§6Creative Mode§r",
+  "gameMode.adventure":	"§3Adventure Mode§r",
+  "gameMode.spectator":	"§1Spectator Mode§r",
+  "gameMode.hardcore":	"§4Hardcore Mode!§r",
+
+// Gamemode Selection
+  "selectWorld.gameMode.survival":	"§2Survival§r",
+  "selectWorld.gameMode.creative":	"§6Creative§r",
+  "selectWorld.gameMode.spectator":	"§1Spectator§r",
+  "selectWorld.gameMode.hardcore":	"§4Hardcore§r",
+  "selectWorld.gameMode.adventure":	"§3Adventure§r",
+  "selectWorld.hardcoreMode":		"§4Hardcore:§r",  
+
+// Command Block
+  "advMode.mode.sequence":			"§aChain§r",
+  "advMode.mode.auto":				"§9Repeat§r",
+  "advMode.mode.redstone":			"§cImpulse§r",
+  "advMode.mode.conditional":		"§dConditional§r",
+  "advMode.mode.unconditional":		"§5Unconditional§r",
+  "advMode.mode.redstoneTriggered":	"§4Needs Redstone§r",
+  "advMode.mode.autoexec.bat":		"§cAlways Active§r",  
+  
+  "pack.openFolder": "\u4E19Open Pack Folder\u4E19",  
+
+  "options.biomeBlendRadius.1": "§r\u4E11 (Fastest)",
+  
+  "options.renderClouds": "\u4E16 Clouds",
+
+// Chat Options  
+  "options.chat.visibility":		"Chat",
+  "options.chat.visibility.full":	"§rVisible §f\u4E26",
+  "options.chat.visibility.system":	"§rCommands only §f\u4E28",
+  "options.chat.visibility.hidden":	"§rHidden §f\u4E27",
+
+  "options.fullscreen": "§r\u4E13 Fullscreen",
+
+// Mainhand Option  
+  "options.mainHand":		"Main hand",
+  "options.mainHand.left":	"§f\u4E23 §rLeft §f\u4E24",
+  "options.mainHand.right":	"§f\u4E22 §rRight §f\u4E25",
+ 
+// Attack Indicator 
+  "options.attack.crosshair":	"§r\u4E15",
+  "options.attack.hotbar":		"§r\u4E14",
+  
+// Narrator
+  "options.narrator.off": "§r\u4E11",
+ 
+// World Selection 
+  "selectWorld.edit.openFolder":		"\u4E19 Open World Folder \u4E19",
+  "selectWorld.edit.backupFolder":		"\u4E19 Open Backups Folder \u4E19",  
+  "selectWorld.backupJoinSkipButton":	"§bYes.§r I know what I'm doing!",
+
+// Escape/Game Menu
+  "menu.shareToLan":	"  §rOpen to LAN \u4E07",
+  "menu.options":    "§r\u4E00 Options...", 
+  "menu.sendFeedback":	"§r\u4E1DGive Feedback",
+  "menu.reportBugs":	"§rReport Bugs\u4E1E",
+  "gui.advancements":	"§f\u4E08§r Advancements",
+  "gui.stats":			"    §rStatistics \u4E09",
+  "menu.returnToMenu":	"§r\u4E03Save and Quit to Title\u4E02",
+
+// Main Menu
+  "menu.singleplayer":	"§r\u4E0D            Singleplayer            \u4E0D",
+  "menu.multiplayer":	"§r\u4E0E            Multiplayer           \u4E0E",
+  "menu.online":		"§r\u4E0F            Realms             \u4E0F",
+  "menu.quit":			"      §rQuit Game \u4E02",
+  "menu.modded":		" §r\u4E1A|\u4E1B|\u4E1C",   
+
+// Options
+  "options.skinCustomisation":		"   §r\u4E0B Skin Customization...",  
+  "options.video":					"   §r\u4E12 Video Settings...",  
+  "options.language":				"§r\u4E05 Language...    ",
+  "options.resourcepack":			"§r\u4E18 Resource Packs...   ",
+  "options.realmsNotifications":	"§r\u4E1F Realms Notifications",  
+  "options.sounds":					"§r\u4E0A Music & Sounds...   ",
+  "options.controls":				"§r\u4E06 Controls...   ",
+  "options.chat.title":				"§r\u4E04 Chat Settings...   ",
+  "options.accessibility.title":	"§r\u4E01 Accessibility Settings...", 
+ 
+
+// Attributes
+  "item.durability":								"%s / %s \u4E6C Durability",
+  "attribute.name.generic.knockback_resistance":	"§f\u4E6A §rKnockback Resistance",
+  "attribute.name.generic.attack_damage":			"§f\u4E66 §rAttack Damage",
+  "attribute.name.generic.attack_speed":			"§f\u4E6B §rAttack Speed",
+  "attribute.name.generic.armor":					"§f\u4E68 §rArmor",
+  "attribute.name.generic.armor_toughness":			"§f\u4E69 §rArmor Toughness",
+  "attribute.name.generic.luck":					"§f\u4E6E §rLuck",    
+  "attribute.name.generic.movement_speed":			"§f\u4E6D §rSpeed",
+  
+// Potion Effects
+  "effect.minecraft.absorption":			"§f\u50E3 §rAbsorption",
+  "effect.minecraft.bad_omen":				"§f\u50E4 §rBad Omen",
+  "effect.minecraft.blindness":				"§f\u50E5 §rBlindness",
+  "effect.minecraft.conduit_power":			"§f\u50E6 §rConduit Power",
+  "effect.minecraft.dolphins_grace":		"§f\u50E7 §rDolphin's Grace",
+  "effect.minecraft.fire_resistance":		"§f\u50E8 §rFire Resistance",
+  "effect.minecraft.glowing":				"§f\u50E9 §rGlowing",
+  "effect.minecraft.haste":					"§f\u50EA §rHaste",
+  "effect.minecraft.health_boost":			"§f\u50EB §rHealth Boost",
+  "effect.minecraft.hero_of_the_village":	"§f\u50EC §rHero of the Village",
+  "effect.minecraft.hunger":				"§f\u50ED §rHunger",
+  "effect.minecraft.instant_damage":		"§f\u50EE §rInstant Damage",
+  "effect.minecraft.instant_health":		"§f\u50EF §rInstant Health",
+  "effect.minecraft.invisibility":			"§f\u50F0 §rInvisibility",
+  "effect.minecraft.jump_boost":			"§f\u50F1 §rJump Boost",
+  "effect.minecraft.levitation":			"§f\u50F2 §rLevitation",
+  "effect.minecraft.luck":					"§f\u50F3 §rLuck", 
+  "effect.minecraft.mining_fatigue":		"§f\u50F4 §rMining Fatigue",
+  "effect.minecraft.nausea":				"§f\u50F5 §rNausea",
+  "effect.minecraft.night_vision":			"§f\u50F6 §rNight Vision",  
+  "effect.minecraft.poison":				"§f\u50F7 §rPoison",  
+  "effect.minecraft.regeneration":			"§f\u50F8 §rRegeneration", 
+  "effect.minecraft.resistance":			"§f\u50F9 §rResistance", 
+  "effect.minecraft.saturation":			"§f\u50FA §rSaturation",
+  "effect.minecraft.slow_falling":			"§f\u50FB §rSlow Falling",
+  "effect.minecraft.slowness":				"§f\u50FC §rSlowness", 
+  "effect.minecraft.speed":					"§f\u50FD §rSpeed",
+  "effect.minecraft.strength":				"§f\u50FE §rStrength",
+  "effect.minecraft.unluck":				"§f\u50FF §rBad Luck",  
+  "effect.minecraft.water_breathing":		"§f\u5100 §rWater Breathing",
+  "effect.minecraft.weakness":				"§f\u5101 §rWeakness",
+  "effect.minecraft.wither":				"§f\u5102 §rWither",
+
+// Enchantments
+//Sword
+  "enchantment.minecraft.sharpness":				"§f\u5107 §rSharpness",
+  "enchantment.minecraft.smite":					"§f\u5107 §rSmite",
+  "enchantment.minecraft.bane_of_arthropods":		"§f\u5107 §rBane of Arthropods",
+  "enchantment.minecraft.knockback":				"§f\u5107 §rKnockback",
+  "enchantment.minecraft.fire_aspect":				"§f\u5107 §rFire Aspect",
+  "enchantment.minecraft.sweeping":					"§f\u5107 §rSweeping Edge",
+  "enchantment.minecraft.looting":					"§f\u5107 §rLooting",  
+//Bow
+  "enchantment.minecraft.power":					"§f\u5109 §rPower",
+  "enchantment.minecraft.flame":					"§f\u5109 §rFlame",
+  "enchantment.minecraft.punch":					"§f\u5109 §rPunch",
+  "enchantment.minecraft.infinity":					"§f\u5109 §rInfinity",
+//Crossbow
+  "enchantment.minecraft.multishot":				"§f\u5108 §rMultishot",
+  "enchantment.minecraft.quick_charge":				"§f\u5108 §rQuick Charge",
+  "enchantment.minecraft.piercing":					"§f\u5108 §rPiercing",
+//Trident
+  "enchantment.minecraft.loyalty":					"§f\u510F §rLoyalty",
+  "enchantment.minecraft.impaling":					"§f\u510F §rImpaling",
+  "enchantment.minecraft.riptide":					"§f\u510F §rRiptide",
+  "enchantment.minecraft.channeling":				"§f\u510F §rChanneling",
+//Fishing Rod
+  "enchantment.minecraft.luck_of_the_sea":			"§f\u5110 §rLuck of the Sea",
+  "enchantment.minecraft.lure":						"§f\u5110 §rLure",
+//Helmet
+  "enchantment.minecraft.respiration":				"§f\u5113 §rRespiration",
+  "enchantment.minecraft.aqua_affinity":			"§f\u5113 §rAqua Affinity",
+//Boots
+  "enchantment.minecraft.feather_falling":			"§f\u5114 §rFeather Falling",
+  "enchantment.minecraft.depth_strider":			"§f\u5114 §rDepth Strider",
+  "enchantment.minecraft.frost_walker":				"§f\u5114 §rFrost Walker",
+  "enchantment.minecraft.soul_speed":				"§f\u5114 §rSoul Speed",
+//All
+  "enchantment.minecraft.unbreaking":				"§f\u5112 §rUnbreaking",
+  "enchantment.minecraft.mending":					"§f\u5112 §rMending",
+//Tools
+  "enchantment.minecraft.efficiency":				"§f\u510A\u510B\u510C\u510D\u510E §rEfficiency",
+  "enchantment.minecraft.silk_touch":				"§f\u510A\u510B\u510C\u510D §rSilk Touch",
+  "enchantment.minecraft.fortune":					"§f\u510A\u510B\u510C\u510D §rFortune",
+//Curses
+  "enchantment.minecraft.binding_curse":			"§f\u5111 §rCurse of Binding",
+  "enchantment.minecraft.vanishing_curse":			"§f\u5111 §rCurse of Vanishing",
+//Armor
+  "enchantment.minecraft.protection":				"§f\u5115 §rProtection",
+  "enchantment.minecraft.fire_protection":			"§f\u5115 §rFire Protection",
+  "enchantment.minecraft.blast_protection":			"§f\u5115 §rBlast Protection",
+  "enchantment.minecraft.projectile_protection":	"§f\u5115 §rProjectile Protection",
+  "enchantment.minecraft.thorns":					"§f\u5115 §rThorns",
+  
+// Food Icons
+  "item.minecraft.apple":					"Apple §r\u50CB\u50AB",
+  "item.minecraft.baked_potato":			"Baked Potato §r\u50AC\u50AB\u50AB",
+  "item.minecraft.beetroot":				"Beetroot §r\u50BC",
+  "item.minecraft.beetroot_soup":			"Beetroot Soup §r\u50DB\u50AB\u50AB\u50AB",
+  "item.minecraft.bread":					"Bread §r\u50AC\u50AB\u50AB",
+  "block.minecraft.cake": 					"Cake §r\u50D3\u50D3\u50D3\u50D3\u50D3\u50C3\u50AB",  
+  "item.minecraft.carrot":					"Carrot §r\u50B4\u50AB",
+  "item.minecraft.chorus_fruit":			"Chorus Fruit §r\u50CB\u50AB",
+  "item.minecraft.cooked_chicken":			"Cooked Chicken §r\u50DB\u50AB\u50AB\u50AB",
+  "item.minecraft.cooked_cod":				"Cooked Cod §r\u50AC\u50AB\u50AB",
+  "item.minecraft.cooked_mutton":			"Cooked Mutton §r\u50D9\u50D7\u50AB\u50AB\u50AB",
+  "item.minecraft.cooked_porkchop":			"Cooked Porkchop §r\u50DD\u50D7\u50D7\u50AB\u50AB\u50AB\u50AB",
+  "item.minecraft.cooked_rabbit":			"Cooked Rabbit §r\u50AC\u50AB\u50AB",
+  "item.minecraft.cooked_salmon":			"Cooked Salmon §r\u50D9\u50D7\u50AB\u50AB\u50AB",
+  "item.minecraft.cookie":					"Cookie §r\u50CB",
+  "item.minecraft.dried_kelp":				"Dried Kelp §r\u50C8",
+  "item.minecraft.golden_apple":			"Golden Apple §f\u50D9\u50D7\u50D7\u50AB\u50AB",
+  "item.minecraft.enchanted_golden_apple":	"Enchanted Golden Apple §f\u50D9\u50D7\u50D7\u50AB\u50AB",
+  "item.minecraft.golden_carrot":			"Golden Carrot §r\u50DF\u50D7\u50D7\u50D7\u50D7\u50AB\u50AB\u50AB",
+  "item.minecraft.honey_bottle":			"Honey Bottle §r\u50D3\u50D3\u50BB",
+  "item.minecraft.melon_slice":				"Melon Slice §r\u50BB",
+  "item.minecraft.mushroom_stew":			"Mushroom Stew §r\u50DB\u50AB\u50AB\u50AB",
+  "item.minecraft.poisonous_potato":		"Poisonous Potato §r\u50BB",
+  "item.minecraft.potato":					"Potato §r\u50C8",
+  "item.minecraft.pufferfish":				"Pufferfish §r\u50D0",
+  "item.minecraft.pumpkin_pie":				"Pumpkin Pie §r\u50C3\u50AF\u50AB\u50AB",
+  "item.minecraft.rabbit_stew":				"Rabbit Stew §r\u50D7\u50AB\u50AB\u50AB\u50AB\u50AB",
+  "item.minecraft.beef":					"Raw Beef §r\u50D4\u50AF",
+  "item.minecraft.chicken":					"Raw Chicken §r\u50BD",
+  "item.minecraft.cod":						"Raw Cod §r\u50CB",
+  "item.minecraft.mutton":					"Raw Mutton §r\u50BB",
+  "item.minecraft.porkchop":				"Raw Porkchop §r\u50D4\u50AF",
+  "item.minecraft.rabbit":					"Raw Rabbit §r\u50D4\u50AF",
+  "item.minecraft.salmon":					"Raw Salmon §r\u50CB",
+  "item.minecraft.rotten_flesh":			"Rotten Flesh §r\u50D5\u50C5",
+  "item.minecraft.spider_eye":				"Spider Eye §r\u50DB\u50AB",
+  "item.minecraft.cooked_beef":				"Steak §r\u50DD\u50D7\u50D7\u50AB\u50AB\u50AB\u50AB",
+  "item.minecraft.suspicious_stew":			"Suspicious Stew §r\u50DB\u50AB\u50AB\u50AB",
+  "item.minecraft.sweet_berries":			"Sweet Berries §r\u50CB",
+  "item.minecraft.tropical_fish":			"Tropical Fish §r\u50D0"
+}

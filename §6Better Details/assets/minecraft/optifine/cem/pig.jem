@@ -1,0 +1,92 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 6],
+			"boxes": [
+				{"coordinates": [-4, 8, -14, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-2, 9, -15, 4, 3, 1], "textureOffset": [16, 16]},
+				{"coordinates": [2, 9, -15, 1, 2, 1], "textureOffset": [16, 20]},
+				{"coordinates": [-3, 9, -15, 1, 2, 1], "textureOffset": [20, 20]},
+				{"coordinates": [-3, 16, -13, 4, 1, 4], "textureOffset": [28, 3]},
+				{"coordinates": [-4, 17, -11, 4, 6, 0], "textureOffset": [45, 2]}
+			],
+			"submodels": [
+				{
+					"id": "ear1",
+					"invertAxis": "xy",
+					"translate": [4, 14.2, -10],
+					"rotate": [0, 0, 22.5],
+					"boxes": [
+						{"coordinates": [-0.53848, -4.99343, -2, 1, 5, 4], "textureOffset": [18, 23]}
+					]
+				},
+				{
+					"id": "ear2",
+					"invertAxis": "xy",
+					"translate": [-4, 14.2, -10],
+					"rotate": [0, 0, -22.5],
+					"boxes": [
+						{"coordinates": [-0.46152, -4.99343, -2, 1, 5, 4], "textureOffset": [18, 23]}
+					]
+				},
+				{
+					"id": "flower",
+					"invertAxis": "xy",
+					"translate": [-2, 20, -11],
+					"rotate": [0, 90, 0],
+					"boxes": [
+						{"coordinates": [-2, -3, 0, 4, 6, 0], "textureOffset": [45, 2]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"ear1.rz": "((0.5 + sin(time / 20) / 10) + (leg1.rx / 5))",
+					"ear2.rz": "((-0.5 + sin(time / 20) / 10) - (leg1.rx / 5))"
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -2],
+			"submodels": [
+				{
+					"id": "rotation",
+					"invertAxis": "xy",
+					"translate": [0, 13, 2],
+					"rotate": [-90, 0, 0],
+					"submodels": [
+						{
+							"id": "tail",
+							"invertAxis": "xy",
+							"translate": [2, -7, -1.5],
+							"rotate": [0, 0, -22.5],
+							"boxes": [
+								{"coordinates": [-3.15432, -0.22417, -3.5, 4, 0, 5], "textureOffset": [0, 27]}
+							]
+						},
+						{
+							"id": "body_sub_1",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"boxes": [
+								{"coordinates": [-5, -6, -7, 10, 16, 8], "textureOffset": [28, 8]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"rotation.rx": "0"
+				}
+			]
+		}
+	]
+}

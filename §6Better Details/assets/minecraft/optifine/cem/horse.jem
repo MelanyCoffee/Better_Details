@@ -1,0 +1,53 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [0, -21, -11],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-1.5, 7, 11, 3, 14, 4], "textureOffset": [42, 36]}
+			],
+			"animations":
+			[
+				{
+				"this.rx": "(-0.05 + sin(time / 20) / 80)"
+				}			
+			]
+		},
+		{
+			"part": "left_ear",
+			"id": "left_ear",
+			"invertAxis": "xy",
+			"translate": [0, -23, 9],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [0.5, 33, -5.01, 2, 3, 1], "textureOffset": [19, 16]}
+			],
+			"animations":
+			[
+				{
+				"this.rx": "(0.02 + cos(time / 20) / 200)"
+				}			
+			]
+		},
+		{
+			"part": "right_ear",
+			"id": "right_ear",
+			"invertAxis": "xy",
+			"translate": [0, -23, 9],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-2.5, 33, -5.01, 2, 3, 1], "textureOffset": [19, 16]}
+			],
+			"animations":
+			[
+				{
+				"this.rx": "(0.02 + sin(time / 20) / 200)"
+				}			
+			]
+		}
+	]
+}

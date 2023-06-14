@@ -1,0 +1,12 @@
+{
+	#Created by _GrandMagus_
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"model": "skeleton_head.jpm",
+			"part": "head",
+			"id": "head",
+			"translate": [8, 0, -8]
+		}
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"id": "body2",
+					"invertAxis": "xy",
+					"translate": [0, 4, 0],
+					"submodels": [
+						{
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [-3, -3, -3, 6, 6, 6], "textureOffset": [0, 16]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"body2.rx": "(sin(time / 20) / 20)",
+					"body2.rz": "(cos(time / 20) / 20)"
+				}
+			]
+		},
+		{
+			"part": "right_eye",
+			"id": "right_eye",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"id": "right_eye2",
+					"invertAxis": "xy",
+					"translate": [0, 4, 0],
+					"submodels": [
+						{
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [-3.3, 0, -3.5, 2, 2, 2], "textureOffset": [32, 0]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"right_eye2.rx": "(sin(time / 20) / 20)",
+					"right_eye2.rz": "(cos(time / 20) / 20)"
+				}
+			]
+		},
+		{
+			"part": "left_eye",
+			"id": "left_eye",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"id": "left_eye2",
+					"invertAxis": "xy",
+					"translate": [0, 4, 0],
+					"submodels": [
+						{
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [1.3, 0, -3.5, 2, 2, 2], "textureOffset": [32, 4]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"left_eye2.rx": "(sin(time / 20) / 20)",
+					"left_eye2.rz": "(cos(time / 20) / 20)"
+				}
+			]
+		},
+		{
+			"part": "mouth",
+			"id": "mouth",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"id": "mouth2",
+					"invertAxis": "xy",
+					"translate": [0, 4, 0],
+					"submodels": [
+						{
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [0, -2, -3.5, 1, 1, 1], "textureOffset": [32, 8]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"mouth2.rx": "(sin(time / 20) / 20)",
+					"mouth2.rz": "(cos(time / 20) / 20)"
+				}
+			]
+		}
+	]
+}

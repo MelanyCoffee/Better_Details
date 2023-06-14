@@ -1,0 +1,32 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-5, -23, -5, 10, 16, 8],
+			"uvNorth": [36, 16, 46, 32],
+			"uvEast": [54, 16, 46, 32],
+			"uvSouth": [64, 16, 54, 32],
+			"uvWest": [36, 16, 28, 32],
+			"uvUp": [36, 16, 46, 8],
+			"uvDown": [46, 8, 56, 16]
+		}
+	],
+	"submodels": [
+		{
+			"id": "tail",
+			"rotate": [0, 0, 30],
+			"boxes": [
+				{
+					"coordinates": [-4.6, -5.39615, -4, 4, 0, 5],
+					"uvNorth": [14, 32, 18, 32],
+					"uvEast": [18, 32, 13, 32],
+					"uvSouth": [18, 32, 14, 32],
+					"uvWest": [18, 32, 13, 32],
+					"uvUp": [0, 32, 4, 27],
+					"uvDown": [4, 27, 8, 32]
+				}
+			]
+		}
+	]
+}

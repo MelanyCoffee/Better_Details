@@ -1,0 +1,82 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"model": "skeleton_horse_head.jpm",
+			"part": "head",
+			"id": "head",
+			"translate": [8, -1, -6]
+		},
+		{
+			"model": "skeleton_horse_mouth.jpm",
+			"part": "mouth",
+			"id": "mouth",
+			"translate": [0, -8, -2]
+		},
+		{
+			"model": "skeleton_horse_body.jpm",
+			"part": "body",
+			"id": "body",
+			"translate": [8, 5, -14]
+		},
+		{
+			"model": "skeleton_horse_neck.jpm",
+			"part": "neck",
+			"id": "neck",
+			"translate": [8, 5, -6.5]
+		},
+		{
+			"model": "skeleton_horse_left_leg.jpm",
+			"part": "back_left_leg",
+			"id": "back_left_leg",
+			"translate": [7, 12, -7]
+		},
+		{
+			"model": "skeleton_horse_right_leg.jpm",
+			"part": "back_right_leg",
+			"id": "back_right_leg",
+			"translate": [9, 12, -7]
+		},
+		{
+			"model": "skeleton_horse_left_leg.jpm",
+			"part": "front_left_leg",
+			"id": "front_left_leg",
+			"translate": [7, 12, -8]
+		},
+		{
+			"model": "skeleton_horse_right_leg.jpm",
+			"part": "front_right_leg",
+			"id": "front_right_leg",
+			"translate": [9, 12, -8]
+		},
+		{
+			"model": "skeleton_horse_left_leg_child.jpm",
+			"part": "child_back_left_leg",
+			"id": "back_left_leg",
+			"translate": [7, 12, -7]
+		},
+		{
+			"model": "skeleton_horse_right_leg_child.jpm",
+			"part": "child_back_right_leg",
+			"id": "back_right_leg",
+			"translate": [9, 12, -7]
+		},
+		{
+			"model": "skeleton_horse_left_leg_child.jpm",
+			"part": "child_front_left_leg",
+			"id": "front_left_leg",
+			"translate": [7, 12, -8]
+		},
+		{
+			"model": "skeleton_horse_right_leg_child.jpm",
+			"part": "child_front_right_leg",
+			"id": "front_right_leg",
+			"translate": [9, 12, -8]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"translate": [0, 0, 0]
+		}
+	]
+}

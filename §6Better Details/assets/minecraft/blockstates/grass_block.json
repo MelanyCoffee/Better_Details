@@ -1,0 +1,27 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "block/grass_block_stick", "weight": 1 },
+            { "model": "block/grass_block_stick", "y": 90, "weight": 1 },
+            { "model": "block/grass_block_stick", "y": 180, "weight": 1 },
+            { "model": "block/grass_block_stick", "y": 270, "weight": 1 },
+            { "model": "block/grass_block_stone", "weight": 1 },
+            { "model": "block/grass_block_stone", "y": 90, "weight": 1 },
+            { "model": "block/grass_block_stone", "y": 180, "weight": 1 },
+            { "model": "block/grass_block_stone", "y": 270, "weight": 1 },
+            { "model": "block/grass_block_cobble", "weight": 1 },
+            { "model": "block/grass_block_cobble", "y": 90, "weight": 1 },
+            { "model": "block/grass_block_cobble", "y": 180, "weight": 1 },
+            { "model": "block/grass_block_cobble", "y": 270, "weight": 1 },
+            { "model": "block/grass_block_layered", "weight": 50 },
+            { "model": "block/grass_block_layered", "y": 90, "weight": 50 },
+            { "model": "block/grass_block_layered", "y": 180, "weight": 50 },
+            { "model": "block/grass_block_layered", "y": 270, "weight": 50 },
+            { "model": "block/grass_block", "weight": 200 },
+            { "model": "block/grass_block", "y": 90, "weight": 200 },
+            { "model": "block/grass_block", "y": 180, "weight": 200 },
+            { "model": "block/grass_block", "y": 270, "weight": 200 }
+        ],
+        "snowy=true":  { "model": "block/grass_block_snow" }
+    }
+}

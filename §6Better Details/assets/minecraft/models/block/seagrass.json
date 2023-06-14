@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench by _GrandMagus_",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"seagrass": "block/seagrass",
+		"particle": "block/seagrass"
+	},
+	"elements": [
+		{
+			"from": [ 0, 0, 4 ],
+			"to": [ 16, 32, 4.001 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 4, 0, 12, 16 ], "texture": "#seagrass", "tintindex": 0 },
+				"south": { "uv": [ 4, 0, 12, 16 ], "texture": "#seagrass", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 12, 0, 0 ],
+			"to": [ 12.001, 32, 16 ],
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 4, 0, 12, 16 ], "texture": "#seagrass", "tintindex": 0 },
+				"east": { "uv": [ 4, 0, 12, 16 ], "texture": "#seagrass", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 4, 0, 0 ],
+			"to": [ 4.001, 32, 16 ],
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 4, 0, 12, 16 ], "texture": "#seagrass", "tintindex": 0 },
+				"east": { "uv": [ 4, 0, 12, 16 ], "texture": "#seagrass", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 0, 0, 12 ],
+			"to": [ 16, 32, 12.001 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 4, 0, 12, 16 ], "texture": "#seagrass", "tintindex": 0 },
+				"south": { "uv": [ 4, 0, 12, 16 ], "texture": "#seagrass", "tintindex": 0 }
+			}
+		}
+	]
+}

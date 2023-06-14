@@ -1,0 +1,141 @@
+16.05.2023 v3.3
+~Se han completado los modelos y las texturas para las nuevas trapdoors y puertas de cerezo
+~Se ha reparado el titulo de Minecraft Java Edition
+~Se han solucionado algunos errores con las herramientas encantadas
+~Se ha actualizado para Minecraft 1.20
+
+23.04.2023 v3.2
+~Iconos Actualizados para las nuevas funciones.
+~Las particulas de algunos bloques arregladas.
+~Se ha solucionado los problemas de posicionamiento en el nuevo inventario del Creativo.
+~Se modificado las texturas de librerias para que coincidan con las texturas de la Estanterias.
+
+20.03.2023 v3.1
+~Arreglos y añadido que no recuerdo :P
+~Sirve en Optifine 1.19.3 :3
+
+28.01.2023 v3.0
+~He corregido la plantilla de mejora de netherite para que sea como todas
+~He reparado las puertas 3D que no se mostraban anteriormente
+~He añadido Puertas y trampillas 3D de manglar
+~He retocado algunos iconos del HUD
+
+22.01.2023 v2.9
+~He actualizado la aurora de los biomas nevados a la version 1.19.3
+~He reparado la aparicion de los Zombies nevados
+
+03.01.2023 v2.8
+~Se actualizo la interfaz de Travaler's Backpack
+
+31.12.2022 v2.7
+Ultimo cambio del año!!
+~Cambio de logo al texture pack
+~Feliz año nuevo a todos gracias por todo el apoyo!
+
+
+16.10.2022 v2.6
+~He añadido una mejor textura al camino de tierra para que se adapte al cesped convencional.
+
+13.08.2022 v2.5
+~He añadido animacion al libro encantado de Sigilo Veloz
+
+12.08.2022 v2.4
+~He arreglado la animación del blaze
+~He reparado el fog de las nubes
+~He añadido overlay en los tablones de manglar
+~Se ha cambiado a la textura de la ceniza que aparece abajo de la hoguera de almas
+~Se ha añadido la animación de Mojang Studios de Minecraft Dungeons 
+
+7.08.2022 v2.3
+~He arreglado el bosque de abeto y el bosque de flores
+~Arreglos menores
+
+27.02.2022 v2.2
+~He arreglado el bosque de abeto y el bosque de flores
+~Arreglos menores
+
+6.12.2021 v2.1
+~He actualizado los iconos al idioma Ingles
+~He arreglado el bosque de abeto y el bosque de flores
+~Arreglos varios
+
+
+23.11.2021 v2.0
+~Se añadio overlay de arena rojiza y miselio de UltimaCraft
+~Se han añadido piedras submarinas y estrellas de mar sobre la arena
+~He rediseñado el item del casco de oro
+~He añadido una interfaz personalizada para el mod "Traveler's Backpack"
+~Hemos añadido el Muddy pig de Minecraft Earth en los pantanos
+~Hemos rediseñado la variante de el gato Jellie "Flash"
+~Hemos rediseñado las variantes de zombies nevados
+~Hemos rediseñado los girasoles
+~He rediseñado la fruta coral del End
+
+04.11.2021 v1.9
+~He bajado la opacidad de la mascara de calabaza
+~He añadido pixel art para las camas
+~He rediseñado el cesped de camino
+
+02.11.2021 v1.8
+~He rediseñado algunos iconos de la interfaz
+~He mejorado las hojas en "RAPIDO"
+~He rediseñado los iconos de la alimentacion y los efectos
+
+19.10.2021 v1.7
+~Hemos rediseñado un tipo de skin de cerdo
+~He reparado la interfaz de el Ender chest
+~He modificado la interfaz generica de los cofres
+~Hemos rediseñado las skin de los Zombies congelados y añadimos zombies de jungla
+~Hemos rediseñado los carcaj de algunos esqueletos
+~He añadido una variante de el gato solo obtenible por parte del gato "Jellie" y colocandole con un name tag "Flash"
+~He añadido una variante de el perro solo obtenible colocandole con un name tag "Albondiga"
+
+19.08.2021 v1.6
+~He añadido la trampilla de hierro 3D
+~He rediseñado el escudo
+~He añadido la fletching table 3D
+~He añadido el pisto de Bedrock edition
+~He añadido Magma Block
+~He añadido 1 variante de esqueleto
+~He añadido una textura nueva para el canalizador
+~He añadido nueva flora en Crimson forest y Warped forest
+
+
+17.08.2021 v1.5
+~He añadido better micelio
+~He reparado completamente las texturas de las vacas
+~He rediseñado las puertas y trampillas
+~He retirado los cofres 3D
+~He rediseñado la caña de azucar
+~He añadido 3 variantes de cerdos
+
+16.08.2021 v1.4
+~He hecho el tono del agua de Bedrock edition para Java
+~He reparado las texturas de las vacas
+
+16.08.2021 v1.3
+~He reparado los corazones de congelamiento en el modo Hardcore y survival
+~He añadido 2 variantes de vacas
+~He añadido bloque de algas secas 3D
+~He añadido las cañas de azucar 3D
+
+13.08.2021 v1.2
+~He reparado las fogatas de alma
+~He reparado el fuego de alma en la tierra de alma
+~He añadido interfaces para las mesas de trabajo
+~He creado 3 variantes de pollos
+~He añadido 3d para el Cofre trampa y el EnderChest
+
+12.08.2021 v1.1
+~He añadido las calabazas 3D
+~He añadido los cofres 3D
+~He añadido variantes de piedras
+~He solucionado la animación de la ballesta 
+~He añadido el titulo HD
+~He reparado la aparición de las Mooblooms
+~He añadido iconos de Bedrock edition para la HUD
+
+11.08.2021 v1.0
+~I have optimized the texture pack files and it is 9MB in size.
+~I have removed all textures from MOB+VOTE, Animated Mobs, Animated Items, Another animated items, Icons and created their variants.
+~I have acquired UltimaCraft, UltimaCraft Mobs, UltimaCraft Enchantments & UltimaCraft Dark permissions.

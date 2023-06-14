@@ -1,0 +1,25 @@
+{
+	"texture": "textures/entity/villager/villager_bedrockhead/villager_bedrockhead.png",
+	"textureSize": [128, 64],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-6, -15, -6, 12, 15, 12],
+			"uvNorth": [72, 8, 80, 18],
+			"uvEast": [64, 8, 72, 18],
+			"uvSouth": [88, 8, 96, 18],
+			"uvWest": [81, 8, 88, 18],
+			"uvUp": [72, 0, 80, 8],
+			"uvDown": [80, 0, 88, 8]
+		},
+		{
+			"coordinates": [-1.5, -4.5, -9, 3, 6, 3],
+			"uvNorth": [90, 2, 92, 6],
+			"uvEast": [88, 2, 90, 6],
+			"uvSouth": [94, 2, 96, 6],
+			"uvWest": [92, 2, 94, 6],
+			"uvUp": [90, 0, 92, 2],
+			"uvDown": [92, 0, 94, 2]
+		}
+	]
+}

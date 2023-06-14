@@ -1,0 +1,160 @@
+{
+	"__comment": "Created by _GrandMagus_",
+	"parent": "block/block",
+	"textures": {
+		"bottom": "block/observer_back_on",
+		"side": "block/observer_side",
+		"top": "block/observer_top",
+		"front": "block/observer_front",
+		"particle": "block/observer_front"
+	},
+	"elements": [
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#top", "cullface": "down" },
+				"up": { "uv": [ 0, 16, 16, 0 ], "texture": "#top", "cullface": "up" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom", "cullface": "south" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "west" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "PlaneZ2",
+			"from": [ 11, 7, 0 ],
+			"to": [ 13, 16, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 3, 0, 5, 9 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneZ2",
+			"from": [ 0, 0, 0 ],
+			"to": [ 3, 16, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 13, 0, 16, 16 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneZ2",
+			"from": [ 13, 0, 0 ],
+			"to": [ 16, 16, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 3, 16 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneZ2",
+			"from": [ 3, 5, 1 ],
+			"to": [ 5, 7, 1.001 ],
+			"faces": {
+				"north": { "uv": [ 11, 9, 13, 11 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneZ2",
+			"from": [ 11, 0, 0 ],
+			"to": [ 13, 5, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 3, 11, 5, 16 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneZ2",
+			"from": [ 3, 0, 0 ],
+			"to": [ 5, 5, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 11, 11, 13, 16 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneZ2",
+			"from": [ 3, 7, 0 ],
+			"to": [ 5, 16, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 11, 0, 13, 9 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneX9",
+			"from": [ 11, 5, 0 ],
+			"to": [ 11.001, 7, 1 ],
+			"faces": {
+				"east": { "uv": [ 5, 9, 6, 11 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneX9",
+			"from": [ 13, 5, 0 ],
+			"to": [ 13.001, 7, 1 ],
+			"faces": {
+				"west": { "uv": [ 2, 9, 3, 11 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneX9",
+			"from": [ 5, 5, 0 ],
+			"to": [ 5.001, 7, 1 ],
+			"faces": {
+				"west": { "uv": [ 10, 9, 11, 11 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneX9",
+			"from": [ 3, 5, 0 ],
+			"to": [ 3.001, 7, 1 ],
+			"faces": {
+				"east": { "uv": [ 13, 9, 14, 11 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneY14",
+			"from": [ 3, 5, 0 ],
+			"to": [ 5, 5.001, 1 ],
+			"faces": {
+				"up": { "uv": [ 11, 11, 13, 12 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneY14",
+			"from": [ 3, 7, 0 ],
+			"to": [ 5, 7.001, 1 ],
+			"faces": {
+				"down": { "uv": [ 11, 8, 13, 9 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneY14",
+			"from": [ 11, 7, 0 ],
+			"to": [ 13, 7.001, 1 ],
+			"faces": {
+				"down": { "uv": [ 11, 8, 13, 9 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneY14",
+			"from": [ 11, 5, 0 ],
+			"to": [ 13, 5.001, 1 ],
+			"faces": {
+				"up": { "uv": [ 3, 11, 5, 12 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneZ2",
+			"from": [ 5, 0, 0 ],
+			"to": [ 11, 16, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 5, 0, 11, 16 ], "texture": "#front", "cullface": "north" }
+			}
+		},
+		{
+			"__comment": "PlaneZ2",
+			"from": [ 11, 5, 1 ],
+			"to": [ 13, 7, 1.001 ],
+			"faces": {
+				"north": { "uv": [ 3, 9, 5, 11 ], "texture": "#front", "cullface": "north" }
+			}
+		}
+	]
+}

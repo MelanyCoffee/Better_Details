@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/warped_roots" },
+			{ "model": "block/warped_roots1" },
+			{ "model": "block/warped_roots2" },
+			{ "model": "block/warped_roots3" },
+			{ "model": "block/warped_roots4" },
+			{ "model": "block/warped_roots5" },
+			{ "model": "block/warped_roots6" }
+		]
+    }
+}

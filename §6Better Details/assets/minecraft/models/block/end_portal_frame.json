@@ -1,0 +1,95 @@
+{
+	"__comment": "Created by _GrandMagus_",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/end_portal_frame_side",
+		"bottom": "block/end_stone",
+		"top": "block/end_portal_frame_top",
+		"side": "block/end_portal_frame_side"
+	},
+	"elements": [
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 13, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom", "cullface": "down" },
+				"north": { "uv": [ 0, 3, 16, 16 ], "texture": "#side", "cullface": "north" },
+				"south": { "uv": [ 0, 3, 16, 16 ], "texture": "#side", "cullface": "south" },
+				"west": { "uv": [ 0, 3, 16, 16 ], "texture": "#side", "cullface": "west" },
+				"east": { "uv": [ 0, 3, 16, 16 ], "texture": "#side", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 5, 12, 5 ],
+			"to": [ 11, 12.001, 11 ],
+			"faces": {
+				"up": { "uv": [ 5, 5, 11, 11 ], "texture": "#top" }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 0, 13, 0 ],
+			"to": [ 16, 13.001, 5 ],
+			"faces": {
+				"up": { "uv": [ 0, 0, 16, 5 ], "texture": "#top" }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 0, 13, 11 ],
+			"to": [ 16, 13.001, 16 ],
+			"faces": {
+				"up": { "uv": [ 0, 11, 16, 16 ], "texture": "#top" }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 0, 13, 5 ],
+			"to": [ 5, 13.001, 11 ],
+			"faces": {
+				"up": { "uv": [ 0, 5, 5, 11 ], "texture": "#top" }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 11, 13, 5 ],
+			"to": [ 16, 13.001, 11 ],
+			"faces": {
+				"up": { "uv": [ 11, 5, 16, 11 ], "texture": "#top" }
+			}
+		},
+		{
+			"__comment": "PlaneX7",
+			"from": [ 11, 12, 5 ],
+			"to": [ 11.001, 13, 11 ],
+			"faces": {
+				"west": { "uv": [ 11, 5, 12, 11 ], "texture": "#top", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "PlaneX7",
+			"from": [ 5, 12, 5 ],
+			"to": [ 5.001, 13, 11 ],
+			"faces": {
+				"east": { "uv": [ 5, 4, 11, 5 ], "texture": "#top" }
+			}
+		},
+		{
+			"__comment": "PlaneZ9",
+			"from": [ 5, 12, 11 ],
+			"to": [ 11, 13, 11.001 ],
+			"faces": {
+				"north": { "uv": [ 5, 11, 11, 12 ], "texture": "#top", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "PlaneZ9",
+			"from": [ 5, 12, 5 ],
+			"to": [ 11, 13, 5.001 ],
+			"faces": {
+				"south": { "uv": [ 5, 5, 11, 4 ], "texture": "#top" }
+			}
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"__comment": "Created by _GrandMagus_",
+	"parent": "block/orientable_vertical",
+	"textures": {
+		"front": "block/dropper_front_vertical",
+		"side": "block/furnace_top"
+	},
+	"elements": [
+		{
+			"__comment": "Cube1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "down" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "north" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "south" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "west" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 5, 15, 6 ],
+			"to": [ 11, 15.001, 10 ],
+			"faces": {
+				"up": { "uv": [ 5, 6, 11, 10 ], "texture": "#front", "cullface": "up" }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 0, 16, 0 ],
+			"to": [ 16, 16.001, 6 ],
+			"faces": {
+				"up": { "uv": [ 0, 0, 16, 6 ], "texture": "#front", "cullface": "up" }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 0, 16, 10 ],
+			"to": [ 16, 16.001, 16 ],
+			"faces": {
+				"up": { "uv": [ 0, 10, 16, 16 ], "texture": "#front", "cullface": "up" }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 0, 16, 6 ],
+			"to": [ 5, 16.001, 10 ],
+			"faces": {
+				"up": { "uv": [ 0, 6, 5, 10 ], "texture": "#front", "cullface": "up" }
+			}
+		},
+		{
+			"__comment": "PlaneZ7",
+			"from": [ 5, 15, 10 ],
+			"to": [ 11, 16, 10.001 ],
+			"faces": {
+				"north": { "uv": [ 5, 10, 11, 11 ], "texture": "#front", "cullface": "up" }
+			}
+		},
+		{
+			"__comment": "PlaneZ7",
+			"from": [ 5, 15, 6 ],
+			"to": [ 11, 16, 6.001 ],
+			"faces": {
+				"south": { "uv": [ 5, 5, 11, 6 ], "texture": "#front", "cullface": "up" }
+			}
+		},
+		{
+			"__comment": "PlaneX9",
+			"from": [ 5, 15, 6 ],
+			"to": [ 5.001, 16, 10 ],
+			"faces": {
+				"east": { "uv": [ 4, 6, 5, 10 ], "texture": "#front", "cullface": "up", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "PlaneX9",
+			"from": [ 11, 15, 6 ],
+			"to": [ 11.001, 16, 10 ],
+			"faces": {
+				"west": { "uv": [ 11, 6, 12, 10 ], "texture": "#front", "cullface": "up", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "PlaneY2",
+			"from": [ 11, 16, 6 ],
+			"to": [ 16, 16.001, 10 ],
+			"faces": {
+				"up": { "uv": [ 11, 6, 16, 10 ], "texture": "#front", "cullface": "up" }
+			}
+		}
+	]
+}

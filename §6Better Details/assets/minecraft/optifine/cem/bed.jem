@@ -1,0 +1,36 @@
+{
+	#jackza
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -18, 8],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-16, 2, -8, 16, 16, 6], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-14, 10, -9, 12, 7, 1], "textureOffset": [0, 44]},
+						{"coordinates": [-16, 4, -8.5, 16, 6, 1], "textureOffset": [26, 48]}
+					]
+				}
+			]
+		},
+		{
+			"part": "foot",
+			"id": "foot",
+			"invertAxis": "xy",
+			"translate": [0, -18, 8],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-16, 2, -8, 16, 16, 6], "textureOffset": [0, 22]}
+			]
+		}
+	]
+}

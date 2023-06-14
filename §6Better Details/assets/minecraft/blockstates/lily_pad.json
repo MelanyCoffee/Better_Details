@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/lily_pad", "weight": 4 },
+            { "model": "block/lily_pad", "y": 90, "weight": 4 },
+            { "model": "block/lily_pad", "y": 180, "weight": 4 },
+            { "model": "block/lily_pad", "y": 270, "weight": 4 },
+            { "model": "block/lily_pad_flower", "weight": 1 },
+            { "model": "block/lily_pad_flower", "y": 90, "weight": 1 },
+            { "model": "block/lily_pad_flower", "y": 180, "weight": 1 },
+            { "model": "block/lily_pad_flower", "y": 270, "weight": 1 },
+            { "model": "block/lily_pad2", "weight": 4 },
+            { "model": "block/lily_pad2", "y": 90, "weight": 1 },
+            { "model": "block/lily_pad2", "y": 180, "weight": 1 },
+            { "model": "block/lily_pad2", "y": 270, "weight": 1 }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"model": "shulker_box_lid",
+			"part": "lid",
+			"id": "lid",
+			"translate": [8, -4, -8]
+		},
+		{
+			"model": "shulker_box_base",
+			"part": "base",
+			"id": "base",
+			"translate": [8, 0, -8]
+		}
+	]
+}

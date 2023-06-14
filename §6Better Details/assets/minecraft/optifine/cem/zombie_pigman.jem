@@ -1,0 +1,53 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [-0.1, -0.3, 2.7],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-5, 0, -7, 10, 8, 8], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"id": "head_sub_0",
+					"invertAxis": "xy",
+					"translate": [4, -32.3, 0],
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-7, 32.3, -8, 1, 2, 1], "textureOffset": [2, 0]},
+						{"coordinates": [-2, 32.3, -8, 1, 2, 1], "textureOffset": [2, 4]},
+						{"coordinates": [-6, 32.3, -8, 4, 4, 1], "textureOffset": [31, 1]}
+					]
+				}
+			]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [8, -36, 0],
+			"rotate": [0, 0, 15],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"id": "ear",
+					"invertAxis": "xy",
+					"translate": [6.5, 40.5, -0.3],
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [0.5, -4.5, -2, 1, 5, 4], "textureOffset": [46, 0]}
+					]
+				}
+			],
+			"animations":
+			[
+				{
+				"headwear:ear.rz": "(0.3 + sin(time / 20) / 20)"
+				}			
+			]
+		}
+	]
+}

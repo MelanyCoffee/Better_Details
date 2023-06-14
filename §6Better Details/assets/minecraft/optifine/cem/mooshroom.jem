@@ -1,0 +1,70 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"model": "cow_head.jpm",
+			"part": "head",
+			"id": "Head",
+			"translate": [0, 4, -4],
+			"animations":
+			[
+				{
+				"head:ear1.ry": "((sin(time / 20) / 4) + (leg1.rx / 2))",
+				"head:ear2.ry": "((cos(time / 20) / 4) + (leg1.rx / 2))"
+				}			
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-4, -12, -7],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-6, 0, 5, 4, 12, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [4, -12, -7],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [2, 0, 5, 4, 12, 4], "textureOffset": [0, 16]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-4, -12, 6],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-6, 0, -7, 4, 12, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [4, -12, 6],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [2, 0, -7, 4, 12, 4], "textureOffset": [0, 16]}
+					]
+				}
+			]
+		}
+	]
+}

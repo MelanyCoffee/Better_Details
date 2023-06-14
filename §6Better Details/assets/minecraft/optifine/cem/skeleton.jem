@@ -1,0 +1,24 @@
+{
+	#Created by _GrandMagus_
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"model": "skeleton_body.jpm",
+			"part": "body",
+			"id": "body",
+			"translate": [8, 12, -2]
+		},
+		{
+			"model": "skeleton_head.jpm",
+			"part": "head",
+			"id": "head",
+			"translate": [8, 0, -8]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}
