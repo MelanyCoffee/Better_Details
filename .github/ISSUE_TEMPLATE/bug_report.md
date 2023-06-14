@@ -28,7 +28,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop features (please complete the following information):
+**Desktop features (please complete the following information):**
 
  - OS: [e.g. Windows,MAC, etc]
  - Version [e.g. 1.19.2, 1.20, etc]
