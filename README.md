@@ -1,11 +1,11 @@
 ![Better Details](https://i.imgur.com/2xE3DHN.png)
 ㅤㅤㅤ![MarkUp](https://i.imgur.com/Ax2PEYh.png)
 
-# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤAbout
+# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  About
 
 Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of this Texture Pack I did this to compile models, entities, textures from the texture pack mentioned above, in order to preserve the Vanilla essence and improve it and thus make the best texture pack for Minecraft, I have contributed configurations, textures, 3D models never seen in other texture pack, like the wonderful ***Moobloom~!*** telling a little bit about the texture pack, it adds new models for entities, new animations for blocks and objects, new biome colors, new starry sky, auroras, redesigned HUD all this to improve the experience in our Minecraft world, for you and me to enjoy every second in Minecraft.
 
-# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤImages
+# ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤImages
 <details><summary>Hmm...</summary>
 <p>
 
@@ -94,12 +94,12 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤAvailable versions
+## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Available versions
 
 ![IMG](https://i.imgur.com/a0dWwRo.png)
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ    IMPORTANT!
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ   IMPORTANT!
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤThis texture pack needs:
  
@@ -118,7 +118,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤCredits...
+## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤCredits...
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**Melany** | Compiler, modifier and creator of textures and 3D models.
 <br>
