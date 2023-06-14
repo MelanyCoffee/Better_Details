@@ -99,7 +99,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 ![IMG](https://i.imgur.com/a0dWwRo.png)
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ    IMPORTANT!
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ   IMPORTANT!
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤThis texture pack needs:
  
