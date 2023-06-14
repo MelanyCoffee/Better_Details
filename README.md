@@ -130,6 +130,6 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  **GrandMagus** | [UltimaCraft Mobs](https://www.curseforge.com/minecraft/texture-packs/ultimacraft-mobs)
 <br>
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤ[Download!!](https://github.com/MelanyCoffee/Better_Details/releases/tag/Version)
+## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ[Download!!](https://github.com/MelanyCoffee/Better_Details/releases/tag/Version)
 
 ㅤㅤㅤ![MarkDown](https://i.imgur.com/J4FPDFd.png)
