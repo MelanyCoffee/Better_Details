@@ -96,7 +96,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Available versions
 
-![IMG](https://i.imgur.com/a0dWwRo.png)
+![IMG](https://i.imgur.com/QACScbP.png)
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 ### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  IMPORTANT!
