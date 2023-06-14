@@ -94,7 +94,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤAvailable versions
+## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Available versions
 
 ![IMG](https://i.imgur.com/a0dWwRo.png)
 <br>
@@ -118,7 +118,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤCredits...
+## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤCredits...
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**Melany** | Compiler, modifier and creator of textures and 3D models.
 <br>
