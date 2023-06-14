@@ -7,32 +7,31 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the bug / Describe el bug**
+A clear and concise description of what the bug is. / Una descripción clara y concisa de lo que falló.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**How it was produced / Como se producio**
+Steps to reproduce the behavior / Pasos para reproducir el falló:
+```
+E.g. / Ejemplo
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
+```
 
-**Expected behavior**
+**Expected behavior / Comportamiento esperado**
 A clear and concise description of what you expected to happen.
+///
+Una descripción clara y concisa de lo que espera que ocurra.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+///
+Si es necesario, añada capturas de pantalla para ayudar a explicar su problema.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Desktop features (please complete the following information):
+///
+Características del equipo (complete la siguiente información):**
+ - OS: [e.g. Windows,MAC, etc]
+ - Version [e.g. 1.19.2, 1.20, etc]
