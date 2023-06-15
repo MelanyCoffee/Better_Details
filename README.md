@@ -58,7 +58,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 #### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤBirch Forest
 
-![IMG](https://media.forgecdn.net/attachments/662/803/2023-05-16_17.png)
+![IMG](https://i.imgur.com/yHioWEQ.png)
 
 #### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSwamp
 
@@ -96,10 +96,10 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Available versions
 
-![IMG](https://i.imgur.com/a0dWwRo.png)
+![IMG](https://i.imgur.com/QACScbP.png)
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ   IMPORTANT!
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  IMPORTANT!
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤThis texture pack needs:
  
@@ -129,5 +129,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  **GrandMagus** | [UltimaCraft Enchantments](https://www.curseforge.com/minecraft/texture-packs/ultimacraft-enchantments)
 <br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  **GrandMagus** | [UltimaCraft Mobs](https://www.curseforge.com/minecraft/texture-packs/ultimacraft-mobs)
+<br>
+## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ   [Download!!](https://github.com/MelanyCoffee/Better_Details/releases/tag/Version)
 
 ㅤㅤㅤ![MarkDown](https://i.imgur.com/J4FPDFd.png)
