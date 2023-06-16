@@ -101,7 +101,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 ### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤIMPORTANT!
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤThis texture pack needs:
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤThis texture pack needs:
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Optifine](https://optifine.net/downloads) for forge:
 
