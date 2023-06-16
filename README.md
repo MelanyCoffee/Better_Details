@@ -38,7 +38,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 ![IMG](https://i.imgur.com/SB1qsAE.jpeg)
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMuuu!
+#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Muuushroom!
 
 ![IMG](https://i.imgur.com/Xg5CrIq.jpeg)
 
