@@ -118,6 +118,12 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
+<p style="text-align: center;"> 
+<a href="https://github.com/MelanyCoffee/Better_Details/issues">Report bugs here!</a>
+<p/>
+
+ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
+
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤCredits...
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**Melany** | Compiler, modifier and creator of textures and 3D models.
