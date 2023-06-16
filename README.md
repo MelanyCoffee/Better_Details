@@ -118,9 +118,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
-<p style="text-align: center;"> 
-<a href="https://github.com/MelanyCoffee/Better_Details/issues">Report bugs here!</a>
-<p/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[**Report bugs here!**](https://github.com/MelanyCoffee/Better_Details/issues)
 
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
