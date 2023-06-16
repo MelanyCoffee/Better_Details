@@ -101,14 +101,14 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 ### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤIMPORTANT!
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤThis texture pack needs:
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤThis texture pack needs:
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Optifine](https://optifine.net/downloads) for forge:
 
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤor
  
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) for Fabric:
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) for Fabric:
 
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤVideo Settings: To fully enjoy the texture pack, you need this setting...
