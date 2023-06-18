@@ -38,7 +38,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 ![IMG](https://i.imgur.com/SB1qsAE.jpeg)
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMuuu!
+#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Muuushroom!
 
 ![IMG](https://i.imgur.com/Xg5CrIq.jpeg)
 
@@ -99,16 +99,16 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 ![IMG](https://i.imgur.com/QACScbP.png)
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
-### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  IMPORTANT!
+### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤIMPORTANT!
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤThis texture pack needs:
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤThis texture pack needs:
  
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   [Optifine](https://optifine.net/downloads) for forge:
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Optifine](https://optifine.net/downloads) for forge:
 
  
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤor
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤor
  
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) for Fabric:
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) for Fabric:
 
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤVideo Settings: To fully enjoy the texture pack, you need this setting...
@@ -116,6 +116,10 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ2. > Random Entities: ON
 <br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ3. > Emissive Textures: ON (optional)
 <br>
+ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[**Report bugs here!**](https://github.com/MelanyCoffee/Better_Details/issues)
+
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤCredits...
