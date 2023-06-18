@@ -1,0 +1,29 @@
+{
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"model": "chest_large_lid_left",
+			"part": "lid_left",
+			"id": "lid_left",
+			"translate": [16, 5, -1]
+		},
+		{
+			"model": "chest_large_lid_right",
+			"part": "lid_right",
+			"id": "lid_right",
+			"translate": [16, 5, -1]
+		},
+		{
+			"model": "chest_large_base_left",
+			"part": "base_left",
+			"id": "base_left",
+			"translate": [16, 10, 0]
+		},
+		{
+			"model": "chest_large_base_right",
+			"part": "base_right",
+			"id": "base_right",
+			"translate": [16, 10, 0]
+		}
+	]
+}

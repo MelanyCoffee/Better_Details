@@ -1,5 +1,6 @@
 {
-  "textures": {
-    "particle": "minecraft:block/break/chest"
-  }
+    "textures": {
+        "particle": "block/oak_planks"
+    }
 }
+

@@ -1,3 +1,17 @@
+16.06.2023 v3.5
+~Se han creado animaciones y texturas para los pantalones con sigilo veloz y las botas con velocidad de alma!
+~Se ha arreglado la mal aparicion de las texturas ambientadas en los biomas de los zombis.
+~Se han arreglado pequeños errores con texturas.
+~Se han arreglado la aparicion de algunas texturas de mobs 🐛.
+~Se ha añadido una pequeña animacion para la cubeta con un renacuajo.
+~Se ha añadido una animacion de UltimaCraft para la vara de blaze.
+~Se ha añadido un pequeño modelo 3D para un bloque.
+~Y mas cosas que no recuerdo :P
+
+15.06.2023 v3.4
+~Se ha expandido completamente las animaciones y las texturas de las armaduras encantadas (casi todas excluyendo Respiraciony Afinidad actuatica) ahora se pueden observar en las armaduras de hierro, oro, diamante y netherite.
+~Se han hecho modelos 3D para la puertas y trapdoors de Bamboo
+
 16.05.2023 v3.3
 ~Se han completado los modelos y las texturas para las nuevas trapdoors y puertas de cerezo
 ~Se ha reparado el titulo de Minecraft Java Edition
