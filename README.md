@@ -1,4 +1,9 @@
-![Better Details](https://i.imgur.com/2xE3DHN.png)
+<br>
+
+![Better Details](https://i.ibb.co/cTZy9XN/Better-Details-Logo.png)
+
+<br>
+
 ㅤㅤㅤ![MarkUp](https://i.imgur.com/Ax2PEYh.png)
 
 # ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  About
