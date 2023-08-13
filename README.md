@@ -1,4 +1,9 @@
-![Better Details](https://i.imgur.com/2xE3DHN.png)
+<br>
+
+![Better Details](https://i.ibb.co/cTZy9XN/Better-Details-Logo.png)
+
+<br>
+
 ㅤㅤㅤ![MarkUp](https://i.imgur.com/Ax2PEYh.png)
 
 # ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  About
@@ -20,31 +25,9 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 #### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMobs with variants depending on biome or probability ✨.
 
-![IMG](https://i.imgur.com/4yDvFzH.png)
+![IMG](https://cdn.modrinth.com/data/zgFlPyBo/images/d9adf661557e3702fea989ee8bcd41892540ba7b.png)
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAurora and mobs on ice spikes.
-
-![IMG](https://i.imgur.com/VlhxFMc.png)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤDrowned in the ocean
-
-![IMG](https://i.imgur.com/iGAps5D.png)
-
-![IMG](https://i.imgur.com/2JceNBH.png)
-
-![IMG](https://i.imgur.com/v6A1oiT.png)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPigs, cows and sheep!
-
-![IMG](https://i.imgur.com/SB1qsAE.jpeg)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Muuushroom!
-
-![IMG](https://i.imgur.com/Xg5CrIq.jpeg)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤChickens!
-
-![IMG](https://i.imgur.com/DsyueSE.jpeg)
+![IMG](https://i.ibb.co/x7xTYsc/2.png)
 
 </p>
 </details>
@@ -52,17 +35,10 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <details><summary>Biomes</summary>
 <p>
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤFloral
+#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWonderful biomes!
 
-![IMG](https://i.imgur.com/vCspVeb.png)
+![IMG](https://cdn.modrinth.com/data/zgFlPyBo/images/17a27853db972e5867f9cdae1dd6d75606d4b8c7.png)
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤBirch Forest
-
-![IMG](https://i.imgur.com/yHioWEQ.png)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSwamp
-
-![IMG](https://i.imgur.com/JDG1F6B.jpg)
 </p>
 </details>
 
@@ -71,11 +47,8 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 #### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ3D blocks, connected textures, luminescence and more!
 
-![IMG](https://i.imgur.com/WtsUkAX.jpg)
+![IMG](https://cdn.modrinth.com/data/zgFlPyBo/images/f186d9e0e40565e0768bcf7bb10b40558c3e5089.png)
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤHoney!
-
-![IMG](https://i.imgur.com/NiPJfBb.png)
 </p>
 </details>
 
@@ -134,6 +107,6 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  **GrandMagus** | [UltimaCraft Mobs](https://www.curseforge.com/minecraft/texture-packs/ultimacraft-mobs)
 <br>
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ   [Download!!](https://github.com/MelanyCoffee/Better_Details/releases/tag/Version)
+## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ   [Download!!](https://github.com/MelanyCoffee/Better_Details/releases)
 
 ㅤㅤㅤ![MarkDown](https://i.imgur.com/J4FPDFd.png)
