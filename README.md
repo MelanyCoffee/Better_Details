@@ -20,31 +20,9 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 #### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMobs with variants depending on biome or probability ✨.
 
-![IMG](https://i.imgur.com/4yDvFzH.png)
+![IMG](https://i.ibb.co/VTm1CDb/1.png)
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAurora and mobs on ice spikes.
-
-![IMG](https://i.imgur.com/VlhxFMc.png)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤDrowned in the ocean
-
-![IMG](https://i.imgur.com/iGAps5D.png)
-
-![IMG](https://i.imgur.com/2JceNBH.png)
-
-![IMG](https://i.imgur.com/v6A1oiT.png)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPigs, cows and sheep!
-
-![IMG](https://i.imgur.com/SB1qsAE.jpeg)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Muuushroom!
-
-![IMG](https://i.imgur.com/Xg5CrIq.jpeg)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤChickens!
-
-![IMG](https://i.imgur.com/DsyueSE.jpeg)
+![IMG](https://i.ibb.co/x7xTYsc/2.png)
 
 </p>
 </details>
@@ -52,17 +30,10 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <details><summary>Biomes</summary>
 <p>
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤFloral
+#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWonderful biomes!
 
-![IMG](https://i.imgur.com/vCspVeb.png)
+![IMG](https://i.ibb.co/7NgBbck/3.png)
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤBirch Forest
-
-![IMG](https://i.imgur.com/yHioWEQ.png)
-
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSwamp
-
-![IMG](https://i.imgur.com/JDG1F6B.jpg)
 </p>
 </details>
 
@@ -71,11 +42,8 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 #### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ3D blocks, connected textures, luminescence and more!
 
-![IMG](https://i.imgur.com/WtsUkAX.jpg)
+![IMG](https://i.ibb.co/m9b5v73/4.png)
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤHoney!
-
-![IMG](https://i.imgur.com/NiPJfBb.png)
 </p>
 </details>
 
