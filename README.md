@@ -84,7 +84,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://optifine.net/downloads"><img src="https://i.imgur.com/sTTCLfz.png" alt=""></a>
 </p>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤor
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤor
  
 <p>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://www.curseforge.com/minecraft/mc-mods/optifabric"><img src="https://i.ibb.co/LZhcfrW/optifabric.png" alt=""></a>
@@ -98,7 +98,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 <br>
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
-ㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/MelanyCoffee/Better_Details/issues"><img src="https://i.ibb.co/T0ZsWBc/Reprot.png" width="653" height="82"></a>
+ㅤㅤㅤㅤㅤ<a href="https://github.com/MelanyCoffee/Better_Details/issues"><img src="https://i.ibb.co/T0ZsWBc/Reprot.png" width="653" height="82"></a>
 
 ㅤㅤㅤ![MarkMid](https://i.imgur.com/sUpjK34.png)
 
