@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Hecho por Melany <3",
 	"parent": "minecraft:block/template_orientable_trapdoor_open",
 	"textures": {
 		"1": "block/cherry_trapdoor",

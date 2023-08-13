@@ -1,0 +1,7 @@
+{
+  "credit": "Hecho por Melany <3",
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "minecraft:block/wheat_stage3"
+  }
+}

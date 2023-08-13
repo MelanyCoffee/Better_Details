@@ -1,0 +1,15 @@
+{
+	"credit": "Hecho por Melany <3",
+	"parent": "minecraft:block/overlay_moss_carpet",
+	"textures": {
+		"wool": "block/moss_block",
+		"side": "block/moss_carpet_side"
+	},
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 1.25, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
+}

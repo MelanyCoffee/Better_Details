@@ -1,3 +1,26 @@
+10.08.2023 v3.7
+~Se ha actualizado el logo del Texture pack.
+~Se ha añadido soporte total para los bloques, texturas, interfaces y mas para el mod Farmer's Delight. 🧺
+~Se ha actualizado las interfaces del mod Travaler's Backpack. 🎒
+~Se ha actualizado los modelos de las puertas de roble, hierro y cerezo 🍂
+~Se ha cambiado las texturas de los girasoles 🌻
+~Se ha hecho un pequeño cambio en el modelo del esqueleto. 💀
+~Se ha arreglado texturas de bloques y mobs que tengan que ver con la variacion de biomas de nieve y desierto. ❄️
+~Se han arreglado pequeños fallos para mejorar el peso y rendimiento del Texture Pack. 🛠️
+~Se ha modificado la textura del marco luminoso. 💡
+
+
+23.06.2023 v3.6
+~Se han añadido las hojas de cerezo para el modo de detalles en rapido.
+~Se actualizo la textura de la puerta de cerezo.
+~Se ha actualizado los colores del agua como los de Minecraft Bedrock.
+~Se han arreglado pequeños errores con los colores de las hojas en algunos biomas 🍎.
+~Se ha añadido una pequeña animacion para el fuego de las antorchas y candelas.
+~Se ha añadido un pequeño overlay cuando un bloque esta cubierto de un capa de musgo.
+~Se ha agrado otro modelo 3D para un bloque.
+~Se han actualizado las texturas de los cultivos de trigo🌾, zanahorias🥕 y las patatas🥔 ademas de actualizar las semillas de trigo🌱.
+~Y mas cosas que no recuerdo :3
+
 16.06.2023 v3.5
 ~Se han creado animaciones y texturas para los pantalones con sigilo veloz y las botas con velocidad de alma!
 ~Se ha arreglado la mal aparicion de las texturas ambientadas en los biomas de los zombis.
@@ -6,6 +29,7 @@
 ~Se ha añadido una pequeña animacion para la cubeta con un renacuajo.
 ~Se ha añadido una animacion de UltimaCraft para la vara de blaze.
 ~Se ha añadido un pequeño modelo 3D para un bloque.
+~Se ha actualizado la hud de la mesa de herreria y pequeños arreglos de interfaces
 ~Y mas cosas que no recuerdo :P
 
 15.06.2023 v3.4
@@ -20,7 +44,7 @@
 
 23.04.2023 v3.2
 ~Iconos Actualizados para las nuevas funciones.
-~Las particulas de algunos bloques arregladas.
+~Las particulas de algunos bloques arregladas.about:blank#blocked
 ~Se ha solucionado los problemas de posicionamiento en el nuevo inventario del Creativo.
 ~Se modificado las texturas de librerias para que coincidan con las texturas de la Estanterias.
 
@@ -79,10 +103,10 @@ Ultimo cambio del año!!
 ~Se han añadido piedras submarinas y estrellas de mar sobre la arena
 ~He rediseñado el item del casco de oro
 ~He añadido una interfaz personalizada para el mod "Traveler's Backpack"
-~Hemos añadido el Muddy pig de Minecraft Earth en los pantanos
-~Hemos rediseñado la variante de el gato Jellie "Flash"
-~Hemos rediseñado las variantes de zombies nevados
-~Hemos rediseñado los girasoles
+~He añadido el Muddy pig de Minecraft Earth en los pantanos
+~He rediseñado la variante de el gato Jellie "Flash"
+~He rediseñado las variantes de zombies nevados
+~He rediseñado los girasoles
 ~He rediseñado la fruta coral del End
 
 04.11.2021 v1.9
@@ -96,11 +120,11 @@ Ultimo cambio del año!!
 ~He rediseñado los iconos de la alimentacion y los efectos
 
 19.10.2021 v1.7
-~Hemos rediseñado un tipo de skin de cerdo
+~He rediseñado un tipo de skin de cerdo
 ~He reparado la interfaz de el Ender chest
 ~He modificado la interfaz generica de los cofres
-~Hemos rediseñado las skin de los Zombies congelados y añadimos zombies de jungla
-~Hemos rediseñado los carcaj de algunos esqueletos
+~He rediseñado las skin de los Zombies congelados y añadimos zombies de jungla
+~He rediseñado los carcaj de algunos esqueletos
 ~He añadido una variante de el gato solo obtenible por parte del gato "Jellie" y colocandole con un name tag "Flash"
 ~He añadido una variante de el perro solo obtenible colocandole con un name tag "Albondiga"
 

@@ -1,0 +1,35 @@
+{
+	"credit": "Hecho por Melany <3",
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"top": "farmersdelight:block/rice_bale_top",
+		"side": "farmersdelight:block/rice_bale_side",
+		"bottom": "farmersdelight:block/rice_bale_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
+			}
+		},
+		{
+			"from": [-0.25, 4, -0.25],
+			"to": [16.25, 5, 16.25],
+			"faces": {
+				"north": {"uv": [0, 11, 16, 12], "texture": "#side"},
+				"east": {"uv": [0, 11, 16, 12], "texture": "#side"},
+				"south": {"uv": [0, 11, 16, 12], "texture": "#side"},
+				"west": {"uv": [0, 11, 16, 12], "texture": "#side"},
+				"up": {"uv": [0, 11, 16, 12], "texture": "#side"},
+				"down": {"uv": [0, 11, 16, 12], "texture": "#side"}
+			}
+		}
+	]
+}
