@@ -25,7 +25,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 #### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤMobs with variants depending on biome or probability ✨.
 
-![IMG](https://i.ibb.co/VTm1CDb/1.png)
+![IMG](https://cdn.modrinth.com/data/zgFlPyBo/images/d9adf661557e3702fea989ee8bcd41892540ba7b.png)
 
 ![IMG](https://i.ibb.co/x7xTYsc/2.png)
 
@@ -37,7 +37,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 #### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWonderful biomes!
 
-![IMG](https://i.ibb.co/7NgBbck/3.png)
+![IMG](https://cdn.modrinth.com/data/zgFlPyBo/images/17a27853db972e5867f9cdae1dd6d75606d4b8c7.png)
 
 </p>
 </details>
@@ -47,7 +47,7 @@ Hello Minecraft community!, I'm ***Melany***, I'm the compiler and creator of th
 
 #### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ3D blocks, connected textures, luminescence and more!
 
-![IMG](https://i.ibb.co/m9b5v73/4.png)
+![IMG](https://cdn.modrinth.com/data/zgFlPyBo/images/f186d9e0e40565e0768bcf7bb10b40558c3e5089.png)
 
 </p>
 </details>
