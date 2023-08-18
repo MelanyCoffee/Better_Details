@@ -1,14 +1,24 @@
-10.08.2023 v3.7
+•✦────────────────────────────────────────────────────────────────────────────────────────────────────────────────✦•
+10.08.2023 ~ 17.08.2023 v3.7
+
+•Actualizaciones•
 ~Se ha actualizado el logo del Texture pack.
-~Se ha añadido soporte total para los bloques, texturas, interfaces y mas para el mod Farmer's Delight. 🧺
-~Se ha actualizado las interfaces del mod Travaler's Backpack. 🎒
-~Se ha actualizado los modelos de las puertas de roble, hierro y cerezo 🍂
-~Se ha cambiado las texturas de los girasoles 🌻
+~Se han actualizado las interfaces del mod Travaler's Backpack. 🎒
+~Se han actualizado los modelos de las puertas de roble, hierro y cerezo 🍂
+~Se han cambiado las texturas de los girasoles 🌻
 ~Se ha hecho un pequeño cambio en el modelo del esqueleto. 💀
+~Se ha modificado la textura del marco luminoso. 💡
+~Se han actualizado todas las texturas del Creeper y el modelo del Crepper. 
+
+•Arreglos•
 ~Se ha arreglado texturas de bloques y mobs que tengan que ver con la variacion de biomas de nieve y desierto. ❄️
 ~Se han arreglado pequeños fallos para mejorar el peso y rendimiento del Texture Pack. 🛠️
-~Se ha modificado la textura del marco luminoso. 💡
+~Se ha solucionado el error de textura del casco con respiracion y afinidad acuatica. 
 
+•Añadidos•
+~Se ha añadido soporte total para los bloques, texturas, interfaces y mas para el mod Farmer's Delight. 🧺
+~Se ha añadido el Creeper del bioma de Cerezo. 🌸
+•✦────────────────────────────────────────────────────────────────────────────────────────────────────────────────✦•
 
 23.06.2023 v3.6
 ~Se han añadido las hojas de cerezo para el modo de detalles en rapido.
